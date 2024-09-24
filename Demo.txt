@@ -1,4 +1,6 @@
 Demo{
 
+  public void add(){
 
+}
 }
